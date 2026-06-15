@@ -1,4 +1,4 @@
-# The Chicago URban Heritage Project
+# The Chicago Urban Heritage Project
 Official Github for the Chicago Urban Heritage Project at the University of Chicago in partnership with the Chicago Studies Program and UChicago Library Center for Digital Scholarship.
 
 This project seeks to create a vector building footprint layer for the entier city of Chicago using a computational workflow in Python with post-processing in QGIS.  You can find the original Python code and QGIS post-processing model builder script in this repository (R20_Method.ipynb) along with the most up to date revised version (CUHP_Workflow.ipynb).  
